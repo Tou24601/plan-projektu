@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload it.
         </p>
+<<<<<<< Updated upstream
+=======
+    <h1>Witajcie w naszej bajce</h1>
+>>>>>>> Stashed changes
         <a
           className="App-link"
           href="https://reactjs.org"
