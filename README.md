@@ -1,1 +1,1 @@
-Simple bootcamp exercise. tbd
+Simple bootcamp exercise.
